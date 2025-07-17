@@ -1,6 +1,8 @@
 # Unit Converter
 
-A comprehensive Java application that provides unit conversions across eight different categories.
+A comprehensive Java application that provides unit conversions across eight different categories, supporting 50+ units of measurement. 
+
+Want to request a unit of measurement? Email at- sapo.business.ventures@gmail.com
 
 ## Features
 
